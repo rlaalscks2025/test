@@ -1,1 +1,2 @@
-print('hello git world')
+def hello():
+    print('hello git world')
