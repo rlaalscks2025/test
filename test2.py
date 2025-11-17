@@ -8,4 +8,7 @@ def hello():
     print('안녕하세요')
 
 def hello():
+    print('안녕안녕')
+
+def hello():
     return ('안녕하세요 ^^!')
