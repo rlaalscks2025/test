@@ -1,1 +1,0 @@
-print('test.py 파일 입니다.')
