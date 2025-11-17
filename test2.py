@@ -7,4 +7,5 @@ print('안녕하세요')
 def hello():
     print('안녕하세요')
 
-
+def hello():
+    return('아무거나')
